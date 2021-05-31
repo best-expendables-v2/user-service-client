@@ -1,4 +1,4 @@
-module github.com/best-expendables-v2
+module github.com/best-expendables-v2/user-service-client
 
 go 1.15
 
